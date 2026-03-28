@@ -1,4 +1,4 @@
-﻿# Домашнє завдання №2. Файлова система і права доступу
+# Домашнє завдання №2. Файлова система і права доступу
 
 Виконано у WSL (Ubuntu).
 
@@ -19,8 +19,8 @@ ls -la
 
 ```text
 total 12
-drwxr-xr-x  3 root    root    4096 Mar 21 21:03 .
-drwxr-xr-x 22 root    root    4096 Mar 21 21:04 ..
+drwxr-xr-x  3 root      root      4096 Mar 21 21:03 .
+drwxr-xr-x 22 root      root      4096 Mar 21 21:04 ..
 drwxr-x---  3 Volodymyr Volodymyr 4096 Mar 21 21:04 Volodymyr
 ```
 
